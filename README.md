@@ -11,7 +11,14 @@ Eu sou um engenheiro de software focado em desenvolvimento web. Com mais de 3 an
   <img align="left" alt="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" width="50">
   <img align="left" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="50">
   <img align="left" alt="Next JS" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="50">
+  
+  <br>
+  <br>
+  
+  ---
+  
+  <h3>📞 Contact</h3>
 
-[![Gmail Badge](https://img.shields.io/badge/-luis.passos013@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luis.passos013@gmail.com)](mailto:luis.passos013@gmail.com)
+![](https://dcbadge.vercel.app/api/shield/731850823692320799?compact=true) &nbsp; [![Gmail Badge](https://img.shields.io/badge/-luis.passos013@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luis.passos013@gmail.com)](mailto:luis.passos013@gmail.com) 
 
-![](https://dcbadge.vercel.app/api/shield/731850823692320799?compact=true)
+
