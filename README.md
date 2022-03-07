@@ -1,22 +1,14 @@
-## 👋 Olá, meu nome é <strong>Luís!</strong>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisspassos&langs_count=10&layout=compact&theme=dark" align="right">
 
-🔭 Atualmente estou focando em projetos pessoais principalmente com Typescript.
+  <h3>👋 Welcome, you can call me Luís!</h3>
+  <hr>
+  
+Eu sou um engenheiro de software focado em desenvolvimento web. Com mais de 3 anos de experiência, venho cada vez mais dominando o ecossitema Javascript para criação de sites! Me especializei fazendo o [Ignite da RocketSeat](https://i.imgur.com/K5e99Aa.jpg) e criando vários projetos pessoais, onde você pode ver na aba de repositórios! Atualmente estou usando as melhores tecnologias do mercado como o [Next JS](https://nextjs.org/) e [Chakra UI](https://chakra-ui.com/) para criação de interfaces.
 
-👊 Aprendendo React.
+  <h3>🧡 My main technologies</h3>
+  <hr>
+  <img align="left" alt="JavaScript" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="50">
+  <img align="left" alt="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" width="50">
+  <img align="left" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="50">
+  <img align="left" alt="Next JS" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="50">
 
-----
-
-## 🚀 Minhas Skills
-
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase"/></code>
-
----
-
-## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luisspassos&show_icons=true)
