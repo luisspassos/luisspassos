@@ -14,4 +14,4 @@ Eu sou um engenheiro de software focado em desenvolvimento web. Com mais de 3 an
 
 [![Gmail Badge](https://img.shields.io/badge/-luis.passos013@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luis.passos013@gmail.com)](mailto:luis.passos013@gmail.com)
 
-![](https://dcbadge.vercel.app/api/shield/731850823692320799)
+![](https://dcbadge.vercel.app/api/shield/731850823692320799?compact=true)
