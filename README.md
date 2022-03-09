@@ -19,6 +19,6 @@ Eu sou um engenheiro de software focado em desenvolvimento web. Com mais de 3 an
   
   <h3>📞 Contact</h3>
 
-![](https://dcbadge.vercel.app/api/shield/731850823692320799?compact=true) &nbsp; [![Gmail Badge](https://img.shields.io/badge/-luis.passos013@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luis.passos013@gmail.com)](mailto:luis.passos013@gmail.com) &nbsp; [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5538998105690&text=Olá!)](https://api.whatsapp.com/send?phone=5538998105690&text=Olá!)
+![](https://dcbadge.vercel.app/api/shield/331479619670638592?compact=true) &nbsp; [![Gmail Badge](https://img.shields.io/badge/-luis.passos013@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luis.passos013@gmail.com)](mailto:luis.passos013@gmail.com) &nbsp; [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5538998105690&text=Olá!)](https://api.whatsapp.com/send?phone=5538998105690&text=Olá!)
 
 
