@@ -4,7 +4,7 @@
   <hr>
   
 Eu sou um engenheiro de software focado em desenvolvimento web. Com mais de 1 ano de experiência, venho cada vez mais dominando o ecossitema Javascript para criação de sites! Me especializei fazendo o [Ignite da RocketSeat](https://i.imgur.com/K5e99Aa.jpg) e criando vários projetos pessoais, onde você pode ver na aba de repositórios! Atualmente estou usando as melhores tecnologias do mercado como o [Next JS](https://nextjs.org/) e [Chakra UI](https://chakra-ui.com/) para criação de interfaces.
-[go](http://stackoverflow.com){:target="_blank"}
+
   <h3>🧡 My main technologies</h3>
   <hr>
   <a href='https://developer.mozilla.org/pt-BR/docs/Web/JavaScript' target='_blank'><img align="left" alt="JavaScript" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="50"></a>
