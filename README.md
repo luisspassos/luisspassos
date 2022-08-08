@@ -8,11 +8,11 @@ Eu sou um engenheiro de software focado em desenvolvimento web. Com mais de 1 an
   <h3>🧡 My main technologies</h3>
   <hr>
   <a href='https://developer.mozilla.org/pt-BR/docs/Web/JavaScript' target='_blank'><img align="left" alt="JavaScript" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="50"></a>
-  <img align="left" alt="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" width="50">
-  <img align="left" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="50">
-  <img align="left" alt="Next JS" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/next_logo.png" width="50">
-  <img align="left" alt="Expo" src="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png" width="50">
-  <img align="left" alt="Firebase" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" width="35">
+  <a href='https://www.typescriptlang.org/'><img align="left" alt="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" width="50"></a>
+  <a href='https://pt-br.reactjs.org/'><img align="left" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="50"></a>
+  <a href='https://nextjs.org/'><img align="left" alt="Next JS" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/next_logo.png" width="50"></a>
+  <a href='https://expo.dev/'><img align="left" alt="Expo" src="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png" width="50"></a>
+  <a href='https://firebase.google.com/?hl=pt'><img align="left" alt="Firebase" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" width="35"></a>
   
   <br>
   <br>
