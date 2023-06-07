@@ -6,7 +6,7 @@
 
 I am a developer focused on web and mobile development.
 
-I currently use the best technologies on the market. Next JS and Chakra UI for the web, React Native for mobile, Firebase for the backend and Jest for the tests.
+I currently use the best technologies on the market. Next JS and Chakra UI for the web, React Native for mobile, Firebase for the backend, Jest and Cypress for the tests.
 
 Certificates 📜: 
 
